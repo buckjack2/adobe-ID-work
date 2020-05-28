@@ -1,0 +1,228 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HKGrotesk-Bold
+FamilyName:HK Grotesk
+StyleName:Bold
+FullName:HK Grotesk Bold
+MenuName:HK Grotesk
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\j4icon\Desktop\issuu_mag_template_0001 B Folder\Document fonts\HKGrotesk-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:83556
+FileModTime:1509631313
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HK Grotesk Bold
+NameArray:0,Win,1,HK Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HKGrotesk-Italic
+FamilyName:HK Grotesk
+StyleName:Italic
+FullName:HK Grotesk Italic
+MenuName:HK Grotesk
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\j4icon\Desktop\issuu_mag_template_0001 B Folder\Document fonts\HKGrotesk-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:67916
+FileModTime:1509631356
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,HK Grotesk Italic
+NameArray:0,Win,1,HK Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HKGrotesk-Light
+FamilyName:HK Grotesk
+StyleName:Light
+FullName:HK Grotesk Light
+MenuName:HK Grotesk Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\j4icon\Desktop\issuu_mag_template_0001 B Folder\Document fonts\HKGrotesk-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:64576
+FileModTime:1509631350
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HK Grotesk Light
+NameArray:0,Win,1,HK Grotesk Light
+NameArray:0,Win,16,HK Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HKGrotesk-LightItalic
+FamilyName:HK Grotesk
+StyleName:Light Italic
+FullName:HK Grotesk Light Italic
+MenuName:HK Grotesk Light Italic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\j4icon\Desktop\issuu_mag_template_0001 B Folder\Document fonts\HKGrotesk-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:65400
+FileModTime:1509631356
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,HK Grotesk Light Italic
+NameArray:0,Win,1,HK Grotesk Light Italic
+NameArray:0,Win,16,HK Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HKGrotesk-Regular
+FamilyName:HK Grotesk
+StyleName:Regular
+FullName:HK Grotesk Regular
+MenuName:HK Grotesk
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\j4icon\Desktop\issuu_mag_template_0001 B Folder\Document fonts\HKGrotesk-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:67652
+FileModTime:1509631350
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HK Grotesk Regular
+NameArray:0,Win,1,HK Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HKGrotesk-SemiBoldLegacy
+FamilyName:HK Grotesk
+StyleName:SemiBold Legacy
+FullName:HK Grotesk SemiBold Legacy
+MenuName:HK Grotesk SemiBold Legacy
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\j4icon\Desktop\issuu_mag_template_0001 B Folder\Document fonts\HKGrotesk-SemiBoldLegacy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:67020
+FileModTime:1510774109
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HK Grotesk SemiBold Legacy
+NameArray:0,Win,1,HK Grotesk SemiBold Legacy
+NameArray:0,Win,16,HK Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Holland
+FamilyName:Holland
+StyleName:Regular
+FullName:Holland
+MenuName:Holland
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\j4icon\Desktop\issuu_mag_template_0001 B Folder\Document fonts\Holland.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:116848
+FileModTime:1507017878
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Holland
+NameArray:0,Win,1,Holland
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\j4icon\Desktop\issuu_mag_template_0001 B Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1517241043
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Vision-Regular
+FamilyName:Vision
+StyleName:Regular
+FullName:Vision Regular
+MenuName:Vision
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\j4icon\Desktop\issuu_mag_template_0001 B Folder\Document fonts\Vision.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111928
+FileModTime:1487654464
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Vision Regular
+NameArray:0,Win,1,Vision
+%EndFont
+
